@@ -1,0 +1,6 @@
+COMMAND RAHASIA
+===============
+
+==[1] AFK
+==[2] FACE
+==[3] DISCO
